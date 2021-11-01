@@ -55,3 +55,22 @@ C:\Users\maks\Downloads\Arkhiv_WinRAR\SPP3-master\AssemblyBrowser\obj\Debug\Brow
 C:\Users\maks\Downloads\Arkhiv_WinRAR\SPP3-master\AssemblyBrowser\obj\Debug\BrowserUI.csproj.CopyComplete
 C:\Users\maks\Downloads\Arkhiv_WinRAR\SPP3-master\AssemblyBrowser\obj\Debug\AssemblyBrowser.exe
 C:\Users\maks\Downloads\Arkhiv_WinRAR\SPP3-master\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\bin\Debug\AssemblyBrowser.exe.config
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\bin\Debug\AssemblyBrowser.exe
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\bin\Debug\InfoCollector.dll
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\bin\Debug\InfoCollector.pdb
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\BrowserUI.csprojAssemblyReference.cache
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\Views\MainWindow.g.cs
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\App.g.cs
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\AssemblyBrowser_MarkupCompile.cache
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\AssemblyBrowser_MarkupCompile.lref
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\Views\MainWindow.baml
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\AssemblyBrowser.g.resources
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\AssemblyBrowser.Properties.Resources.resources
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\BrowserUI.csproj.GenerateResource.cache
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\BrowserUI.csproj.CoreCompileInputs.cache
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\BrowserUI.csproj.CopyComplete
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\AssemblyBrowser.exe
+C:\Users\maks\Desktop\Assembly Browser\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
