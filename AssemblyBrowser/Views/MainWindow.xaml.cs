@@ -15,5 +15,10 @@ namespace AssemblyBrowser.Views
             var avm = new AssemblyViewModel();
             DataContext = avm;
         }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
