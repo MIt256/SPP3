@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoCollectorLib", "InfoCol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoCollectorTests", "InfoCollectorTests\InfoCollectorTests.csproj", "{C5F9666E-D768-42BC-ADFE-3F8047AE8CB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesLib", "ShapesLib\ShapesLib.csproj", "{36A5B842-9C82-4389-945E-4294DA9CDDF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleLib", "ShapesLib\ExampleLib.csproj", "{36A5B842-9C82-4389-945E-4294DA9CDDF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

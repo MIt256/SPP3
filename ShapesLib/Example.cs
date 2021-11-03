@@ -1,8 +1,8 @@
-﻿namespace ShapesLib
+﻿namespace ExampleLib
 {
-    public class Shape
-    {
-        public string type = "shape";
+    public class Example
+    { 
+        public string type = "ex";
 
         public int CoolProperty { get; set; }
 
@@ -15,7 +15,7 @@ namespace TestingNamespace
 {
     public static class Wow
     {
-        public static void ExtensionMethod(this string asd)
+        public static void Method(this string shit)
         {
 
         }

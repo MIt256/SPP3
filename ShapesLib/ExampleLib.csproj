@@ -7,8 +7,8 @@
     <ProjectGuid>{36A5B842-9C82-4389-945E-4294DA9CDDF2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ShapesLib</RootNamespace>
-    <AssemblyName>ShapesLib</AssemblyName>
+    <RootNamespace>ExampleLib</RootNamespace>
+    <AssemblyName>ExampleLib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Shape.cs" />
+    <Compile Include="Example3.cs" />
+    <Compile Include="Example2.cs" />
+    <Compile Include="Example.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

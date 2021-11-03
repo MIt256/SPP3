@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AssemblyBrowser.ViewModels"
         mc:Ignorable="d"
-        Title="LABA№3" Height="486" Width="729.5">
+        Title="LABA№3" Height="831" Width="729.5">
 
     <!--<Window.DataContext>
         <local1:MainWindowViewModel/>
@@ -16,18 +16,24 @@
     </Window.DataContext>
 
     <Grid Margin="0,0,-0.4,401">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="380*"/>
+            <RowDefinition Height="267*"/>
+        </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="0*" />
             <ColumnDefinition Width="0*" />
-            <ColumnDefinition />
+            <ColumnDefinition Width="151*" />
+            <ColumnDefinition Width="404*"/>
+            <ColumnDefinition Width="168*"/>
         </Grid.ColumnDefinitions>
 
-        <Menu Margin="0,0,0,-9" Grid.ColumnSpan="3">
+        <Menu Margin="0,0,0,-9" Grid.ColumnSpan="5" Grid.RowSpan="2">
             <MenuItem Header="Load assembly" Command="{Binding LoadCommand}" Height="27" Width="106" />
         </Menu>
 
-        <TreeView Name="AssemblyTreeView" HorizontalAlignment="Left" Height="1712" Margin="0,28,0,-1686" Width="722" Grid.Column="0" Grid.ColumnSpan="3"
-                  ItemsSource="{Binding AssemblyInfos}" FontFamily="Tahoma" FontSize="16" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" VerticalAlignment="Top">
+        <TreeView Name="AssemblyTreeView" HorizontalAlignment="Left" Height="1712" Margin="0,28,0,-1341" Width="722" Grid.Column="0" Grid.ColumnSpan="5"
+                  ItemsSource="{Binding AssemblyInfos}" FontFamily="Tahoma" FontSize="16" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" VerticalAlignment="Top" Grid.RowSpan="2">
             <TreeView.ItemTemplate>
 
                 <HierarchicalDataTemplate ItemsSource="{Binding AssemblyNamespaces}">

@@ -12,14 +12,14 @@ namespace AssemblyBrowser.Commands
             OnFileChooseExecute += action;
         }
 
-        public event EventHandler CanExecuteChanged;
+        public event EventHandler CanExecuteChanged;//p
 
-        public bool CanExecute(object parameter)
+        public bool CanExecute(object parameter)//p
         {
             return true;
         }
 
-        public void Execute(object parameter)
+        public void Execute(object parameter)//p
         {
             var openFileDialog = new OpenFileDialog
             {
@@ -30,8 +30,7 @@ namespace AssemblyBrowser.Commands
 
 
             if (openFileDialog.ShowDialog() == true)
-                OnFileChooseExecute?.Invoke(openFileDialog.FileName);
-            //AssemblyInfos.Add(InfoCollector.LoadAssembly(openFileDialog.FileName));
+                OnFileChooseExecute?.Invoke(openFileDialog.FileName);            
         }
 
         private event Action<string> OnFileChooseExecute;
